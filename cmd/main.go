@@ -15,6 +15,6 @@ func main() {
 	
 	// Print the JSON string
 	fmt.Println(jsonStr)
-	//kk 55
+	//kk 55 uuu
 	//40
 }
