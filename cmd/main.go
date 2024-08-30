@@ -13,7 +13,7 @@ func main() {
 	// Format the JSON string
 	jsonStr := fmt.Sprintf(`{\"t\": \"%s\", \"lk\": [{\"e\": %d, \"s\": %d}]}`, url, e, s)
 	vsdcdvsdv
-	// Print the JSON stringc    cc
+	// Print the JSON stringc    cc gg
 	fmt.Println(jsonStr)csa  dscdvsdvcd  ddsvcc ddd
 	//kk 55 uuu 44  dsvd 999 dd fff  ddd   ddd  fff
 	//40
